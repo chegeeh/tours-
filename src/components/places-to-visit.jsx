@@ -2,7 +2,7 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import ImageCard from '/src/components/imageCard';
 import places from '/src/places';
-import windowpos './src/window';
+import windowpos from '/src/window';
 
 const useStyles = makeStyles((theme) => ({
 	root : {
