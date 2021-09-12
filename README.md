@@ -8,8 +8,6 @@ https://myisland.maxieczar.repl.co/
 
 what do you think:)
 
-
-
-[Screenshot_2021-09-08_18_58_17](https://user-images.githubusercontent.com/41311815/132604829-2ce6d84d-5abe-4416-97d1-04e446a66e8f.png)
+![Screenshot_2021-09-11_10_53_46](https://user-images.githubusercontent.com/41311815/133006504-3e3b27d9-9b8b-4869-a160-8fbd4a0e4082.png)
 
 
